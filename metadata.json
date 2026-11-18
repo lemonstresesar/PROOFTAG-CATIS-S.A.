@@ -1,0 +1,6 @@
+{
+  "name": "PROOFTAG-CATIS S.A.",
+  "description": "Solutions technologiques pour la sécurité routière, le contrôle technique automobile et l'authentification documentaire au Cameroun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

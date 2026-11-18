@@ -1,0 +1,25 @@
+:root {
+  /* Extracted directly from official PROOFTAG-CATIS S.A. logo & 2024 site CSS */
+  --color-primary: #106898;
+  --color-primary-hover: #0d5780;
+  --color-primary-dark: #093e5c;
+  --color-navy-deep: #072638;
+  --color-secondary: #00b0ff;
+  --color-accent: #0f766e;
+
+  --color-bg: #ffffff;
+  --color-surface: #f4f7fa;
+  --color-surface-alt: #eaf0f6;
+  --color-text: #111827;
+  --color-text-secondary: #334155;
+  --color-muted: #475569;
+  --color-border: #dce4ec;
+
+  --color-success: #15803d;
+  --color-warning: #b45309;
+  --color-danger: #b91c1c;
+
+  --font-display: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-body: 'DM Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}

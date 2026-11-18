@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><priority>1.0</priority></url>
+  <url><loc>/a-propos</loc><priority>0.9</priority></url>
+  <url><loc>/expertise</loc><priority>0.9</priority></url>
+  <url><loc>/expertise/recherche-et-developpement</loc><priority>0.8</priority></url>
+  <url><loc>/expertise/support-technique</loc><priority>0.8</priority></url>
+  <url><loc>/expertise/analyse-donnees-reporting</loc><priority>0.8</priority></url>
+  <url><loc>/expertise/securite-documentaire</loc><priority>0.8</priority></url>
+  <url><loc>/expertise/securite-prevention-routiere</loc><priority>0.8</priority></url>
+  <url><loc>/solutions</loc><priority>0.9</priority></url>
+  <url><loc>/solutions/ditros-ct</loc><priority>0.9</priority></url>
+  <url><loc>/solutions/ct-verif</loc><priority>0.9</priority></url>
+  <url><loc>/solutions/doser</loc><priority>0.9</priority></url>
+  <url><loc>/processus-securisation</loc><priority>0.8</priority></url>
+  <url><loc>/actualites</loc><priority>0.7</priority></url>
+  <url><loc>/carriere</loc><priority>0.7</priority></url>
+  <url><loc>/contact</loc><priority>0.8</priority></url>
+  <url><loc>/mentions-legales</loc><priority>0.4</priority></url>
+  <url><loc>/politique-confidentialite</loc><priority>0.4</priority></url>
+</urlset>

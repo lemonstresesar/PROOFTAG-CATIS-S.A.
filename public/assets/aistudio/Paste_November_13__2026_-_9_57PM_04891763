@@ -1,0 +1,1347 @@
+# PROJET DE REFONTE INTÉGRALE DU SITE WEB OFFICIEL DE PROOFTAG-CATIS S.A.
+
+## CAHIER DES CHARGES — RECHERCHE, EXTRACTION DES RESSOURCES ET DÉVELOPPEMENT COMPLET
+
+# 1. TON RÔLE ET TA MISSION
+
+Tu es une agence numérique internationale spécialisée dans la conception de plateformes corporate haut de gamme, composée de :
+
+- Directeurs artistiques.
+- Experts en UI/UX Design.
+- Développeurs Full Stack seniors.
+- Experts en architecture logicielle.
+- Spécialistes en cybersécurité.
+- Experts en SEO.
+- Spécialistes en technologies de sécurisation documentaire et de traçabilité.
+
+Ta mission est de réaliser une refonte intégrale du site web de PROOFTAG-CATIS S.A., une entreprise technologique camerounaise basée à Douala.
+
+Le site doit être entièrement repensé, modernisé et développé.
+
+Il doit présenter de manière professionnelle l'identité de l'entreprise, ses domaines d'expertise, ses solutions numériques, ses activités, ses services et ses réalisations vérifiables.
+
+ATTENTION :
+
+Je ne veux pas d'un simple template de site informatique.
+
+Je ne veux pas non plus d'un site e-commerce.
+
+Je veux un véritable site institutionnel et corporate destiné à une entreprise spécialisée dans les technologies de sécurisation documentaire, les systèmes d'information, les transports et la sécurité routière.
+
+Tu dois d'abord faire un travail approfondi de recherche et d'extraction des ressources, puis développer le site complet.
+
+Ne t'arrête pas à la conception graphique.
+
+Produis directement le projet fonctionnel.
+
+---
+
+# 2. IDENTIFICATION ET PRÉSENTATION DE L'ENTREPRISE
+
+## Identité
+
+Nom officiel : PROOFTAG-CATIS S.A.
+
+CATIS signifie :
+
+CAMEROON TECHNOLOGY INFORMATION SERVICES.
+
+Localisation : Douala, Cameroun.
+
+Secteur : Technologies et services de l'information.
+
+Signature et positionnement : solutions technologiques au service des transports, de l'authentification documentaire et de la sécurité routière.
+
+Site principal historique :
+https://www.prooftagcatis.com/
+
+Site de présentation plus récent :
+https://site.prooftagcatis.com/
+
+Autre version publique :
+https://net.prooftagcatis.com/
+
+## Présentation de l'entreprise
+
+PROOFTAG-CATIS S.A. est une entreprise camerounaise spécialisée dans le développement, le déploiement et l'accompagnement de solutions numériques.
+
+CATIS développe des solutions technologiques destinées aux transports en général et à la sécurité routière en particulier.
+
+L'entreprise intervient dans la sécurisation des processus de contrôle technique automobile, l'authentification des documents, la centralisation des données, l'analyse des informations et le support technique.
+
+PROOFTAG-CATIS S.A. est également présentée comme l'entité camerounaise représentant PROOFTAG SAS, une société française spécialisée dans les technologies de sécurisation et d'authentification documentaire.
+
+Le site historique indique que l'entreprise camerounaise a lancé ses activités en 2019.
+
+Cette date doit être vérifiée avant toute publication définitive.
+
+## Vision
+
+Développer des solutions technologiques sûres, sécurisées et innovantes permettant d'améliorer les transports et de contribuer à la réduction des accidents et des blessures sur les routes.
+
+## Positionnement
+
+Présenter l'entreprise comme un acteur technologique spécialisé dans :
+
+- La transformation numérique des processus de transport.
+- La sécurité routière.
+- La sécurisation des documents.
+- L'authentification documentaire.
+- La traçabilité.
+- Les systèmes d'information.
+- L'analyse des données.
+- Le développement de solutions technologiques.
+- L'assistance et le support technique.
+
+Ne pas présenter PROOFTAG-CATIS comme une simple entreprise informatique généraliste.
+
+---
+
+# 3. RECHERCHE DOCUMENTAIRE OBLIGATOIRE
+
+Avant de commencer le développement, tu dois explorer l'ensemble des ressources publiques de l'entreprise.
+
+Il existe plusieurs versions publiques de son site.
+
+Tu dois les examiner ensemble afin de constituer une documentation cohérente.
+
+## Site de présentation
+
+https://site.prooftagcatis.com/
+
+Examiner :
+- Accueil.
+- CATIS.
+- À propos.
+- Expertise.
+- Recherche et développement.
+- Support technique.
+- Analyse de données et reporting.
+- Sécurité documentaire.
+- Sécurité et prévention routière.
+- Solutions.
+- DITROS-CT.
+- CT-VERIF.
+- DOSER.
+- Actualités.
+- Carrière.
+- Contact.
+
+## Site historique
+
+https://www.prooftagcatis.com/
+
+Explorer :
+- Accueil.
+- À propos.
+- Organisation.
+- Historique.
+- Mission.
+- Lois et règlements.
+- Galerie.
+- Sécurité routière.
+- Business Intelligence.
+- Sécurité documentaire.
+- Contrôle technique.
+- Douze points de sécurisation.
+- CertiDOCS CT.
+- Équipements.
+- Scellés à bulles.
+- Procès-verbaux.
+- Support technique.
+- Partenaires.
+- Industries.
+- Toute l'actualité.
+- Carrière.
+
+## Autres ressources
+
+https://net.prooftagcatis.com/
+
+https://prooftag.net/
+
+Le dernier site concerne PROOFTAG SAS. Il peut aider à comprendre les technologies de sécurisation développées par l'entreprise française représentée au Cameroun.
+
+Il faut impérativement distinguer les activités et les informations de PROOFTAG SAS de celles de PROOFTAG-CATIS S.A.
+
+Ne fusionne pas artificiellement les deux identités.
+
+## Recherche complémentaire
+
+Effectue également une recherche publique sur :
+
+- PROOFTAG-CATIS S.A.
+- CATIS Cameroon.
+- PROOFTAG SAS.
+- Technologie Code à Bulles.
+- CertiDOCS.
+- Contrôle technique automobile au Cameroun.
+- Sécurité documentaire.
+- Sécurité routière.
+- DITROS-CT.
+- CT-VERIF.
+- DOSER.
+
+Consulte les publications professionnelles, les documents techniques publics et les autres sources fiables.
+
+Priorité aux informations officielles.
+
+Conserve les sources utilisées dans un fichier documentaire.
+
+---
+
+# 4. COMPRÉHENSION APPROFONDIE DES ACTIVITÉS
+
+Tu dois organiser les contenus du site autour des différents métiers de l'entreprise.
+
+## 4.1. SÉCURITÉ ET PRÉVENTION ROUTIÈRE
+
+Présenter les activités liées à la modernisation des processus de transport et à la sécurité routière.
+
+Expliquer comment les solutions numériques permettent :
+- D'améliorer la fiabilité des contrôles techniques.
+- De faciliter le suivi des véhicules.
+- De renforcer la traçabilité des contrôles.
+- D'améliorer la disponibilité des données.
+- D'aider à lutter contre la fraude documentaire.
+- De contribuer à une meilleure politique de sécurité routière.
+
+Créer une page dédiée avec des visuels professionnels illustrant les centres de contrôle technique, les véhicules, les équipements numériques et les agents de contrôle.
+
+## 4.2. SÉCURITÉ DOCUMENTAIRE
+
+Présenter les solutions de sécurisation et d'authentification documentaire.
+
+Expliquer les notions suivantes :
+
+- Authenticité.
+- Intégrité.
+- Unicité.
+- Traçabilité.
+- Protection contre la contrefaçon.
+- Protection contre la falsification.
+- Authentification physique.
+- Authentification électronique.
+
+Présenter la technologie Code à Bulles® de PROOFTAG comme une technologie d'empreinte physique utilisée dans les solutions d'authentification.
+
+Ne pas inventer de performances ou de garanties techniques.
+
+## 4.3. RECHERCHE ET DÉVELOPPEMENT
+
+Présenter les activités de recherche et d'amélioration technologique.
+
+Mettre en valeur :
+- L'innovation.
+- La recherche de solutions adaptées.
+- Le développement numérique.
+- L'intégration technologique.
+- L'amélioration continue.
+
+## 4.4. SUPPORT TECHNIQUE
+
+Présenter les activités d'accompagnement et d'assistance :
+
+- Assistance aux utilisateurs.
+- Assistance technique.
+- Accompagnement des centres de contrôle.
+- Maintenance et suivi des systèmes lorsque proposés.
+- Conseils.
+- Disponibilité et continuité des systèmes.
+
+Ne pas inventer des délais contractuels d'intervention.
+
+## 4.5. ANALYSE DE DONNÉES ET REPORTING
+
+Présenter les solutions permettant :
+- La collecte de données.
+- La recherche d'informations.
+- L'analyse.
+- La production de rapports.
+- L'établissement de statistiques.
+- L'aide à la décision.
+- L'amélioration des processus.
+
+Utiliser des illustrations de tableaux de bord et de visualisation de données, mais ne jamais inventer de statistiques présentées comme des résultats réels de l'entreprise.
+
+---
+
+# 5. LES TROIS SOLUTIONS NUMÉRIQUES À METTRE EN AVANT
+
+Cette partie est fondamentale.
+
+Les solutions doivent bénéficier de véritables pages de présentation.
+
+## 5.1. DITROS-CT
+
+Site de référence :
+https://site.prooftagcatis.com/solutions/ditros-ct/
+
+Nom : DITROS-CT.
+
+Domaine : Sécurisation du système de contrôle technique automobile.
+
+Présentation :
+
+DITROS-CT est un système de délivrance sécurisée des vignettes de visite technique automobile.
+
+Il permet une gestion globale du processus de contrôle technique, l'interconnexion des centres et la centralisation des données auprès de l'autorité compétente en matière de transports routiers.
+
+Créer une page professionnelle comprenant :
+
+- Présentation de DITROS-CT.
+- Problématique du contrôle technique.
+- Objectifs de la solution.
+- Fonctionnement général.
+- Étapes du processus.
+- Équipements associés.
+- Sécurisation des résultats.
+- Centralisation des données.
+- Bénéfices pour les différents acteurs.
+- Bouton pour contacter l'entreprise.
+
+Utiliser des illustrations de centres de contrôle technique, équipements de mesure, tablettes professionnelles, serveurs, rapports numériques et vignettes sécurisées.
+
+## 5.2. CT-VERIF
+
+Présentation officielle :
+https://site.prooftagcatis.com/en/solutions/ct-verif/
+
+CT-VERIF est une plateforme destinée au grand public permettant de vérifier la validité et l'authenticité des visites techniques des véhicules automobiles au Cameroun.
+
+La solution est présentée comme un projet mis en place à la demande de la Direction des Transports Routiers du Ministère des Transports.
+
+Créer une page comprenant :
+
+- Présentation de la plateforme.
+- Objectif de la vérification.
+- Public concerné.
+- Fonctionnement général.
+- Avantages.
+- Bouton « Accéder à CT-VERIF ».
+
+Le bouton doit rediriger vers la véritable plateforme officielle après vérification de son URL depuis le lien présent sur le site original.
+
+Ne développe pas un faux système de vérification.
+
+Ne prétends pas qu'une vérification a été effectuée si l'utilisateur n'a pas réellement interrogé le service officiel.
+
+## 5.3. DOSER
+
+Présentation :
+https://site.prooftagcatis.com/solutions/doser/
+
+DOSER signifie Système de Données de Sécurité Routière.
+
+La plateforme est présentée comme un système permettant :
+
+- La collecte des données relatives aux accidents de la route.
+- La recherche.
+- L'analyse.
+- L'établissement de statistiques.
+- Le partage des informations entre les acteurs concernés.
+- L'aide à l'élaboration des politiques de sécurité routière.
+
+Site d'accès indiqué :
+https://doser.ditros.org/
+
+Créer une page complète comprenant :
+- Présentation de DOSER.
+- Problématiques auxquelles la solution répond.
+- Fonctionnement général.
+- Collecte et traitement des données.
+- Analyse et reporting.
+- Utilisateurs concernés.
+- Bouton « Découvrir DOSER ».
+
+Utiliser des visualisations de données et des tableaux de bord illustratifs.
+
+Toutes les données affichées dans les exemples doivent être explicitement fictives et ne doivent pas être présentées comme des statistiques officielles.
+
+---
+
+# 6. LES DOUZE POINTS DE SÉCURISATION
+
+L'ancien site présente un processus de sécurisation reposant sur douze points.
+
+Je souhaite une présentation moderne de ce processus sous forme de chronologie ou d'infographie interactive.
+
+Les douze étapes à documenter sont :
+
+1. Vérification des informations de la carte grise dans la base de données du MINT.
+2. Mise à jour des données recueillies dans les bases centrales.
+3. Collecte automatique des données des bancs de tests.
+4. Prise de photographies.
+5. Localisation GPS.
+6. Utilisation d'une tablette pour les contrôles visuels.
+7. Génération automatique du procès-verbal et du rapport de test.
+8. Génération automatique de la décision.
+9. Impression du résultat sur un procès-verbal sécurisé.
+10. Sécurisation de la vignette avec le scellé à bulles et le QR code.
+11. Centralisation des données dans le serveur du MINT.
+12. Contrôle formel ou informel sur le terrain.
+
+Présenter ce processus de manière pédagogique et visuellement attractive.
+
+Chaque étape doit comporter :
+- Un numéro.
+- Un titre.
+- Une courte explication.
+- Une illustration adaptée.
+- Une icône professionnelle.
+
+Ne pas exposer de configurations internes, de données réelles de véhicules, d'identifiants ou de mécanismes permettant de contourner les systèmes de sécurité.
+
+Les illustrations de documents et vignettes doivent être fictives, non fonctionnelles et clairement présentées comme des exemples.
+
+---
+
+# 7. IDENTITÉ VISUELLE ET PALETTE DE COULEURS
+
+CETTE PARTIE EST PRIORITAIRE.
+
+Le site doit conserver l'identité visuelle de PROOFTAG-CATIS S.A.
+
+Ne réutilise surtout pas la palette de HIGHER GLORY TECHNOLOGIES.
+
+Les deux entreprises doivent avoir des identités graphiques distinctes.
+
+## 7.1. Analyse des ressources visuelles
+
+Examine attentivement :
+
+- Le logo récent.
+- L'ancien logo.
+- Les captures des deux versions du site.
+- Les bannières.
+- Les illustrations.
+- Les icônes.
+- Les fonds graphiques.
+- Les polices.
+- Les couleurs CSS.
+
+Ressources du logo récent :
+
+https://site.prooftagcatis.com/wp-content/uploads/2024/07/cropped-Logo_Prooftag_CATIS_SA_Redesigne_Ok-removebg-250x72.png
+
+Ancien logo :
+
+https://www.prooftagcatis.com/wp-content/uploads/2021/05/logo-white-2-03-300x155.png
+
+Motif graphique publié sur le nouveau site :
+
+https://site.prooftagcatis.com/wp-content/uploads/2024/07/96ac75cb-object-8our-exprience.png
+
+## 7.2. Extraction de la palette
+
+Tu dois extraire les couleurs réelles.
+
+Utilise :
+- Les pixels des logos.
+- Les images du site.
+- Les valeurs CSS.
+- Les couleurs des boutons.
+- Les couleurs des menus.
+- Les fonds des différentes sections.
+- Les dégradés existants.
+- Les motifs graphiques.
+
+Le nouveau logo semble utiliser des nuances de bleu et de turquoise, avec certains éléments graphiques vert-turquoise.
+
+Ne transforme pas cette observation en palette définitive sans effectuer une véritable extraction.
+
+Créer une palette documentée avec les codes HEX exacts ou estimés et indiquer la source de chaque couleur.
+
+## 7.3. Système de couleurs
+
+Organiser les couleurs en variables CSS :
+
+- Primary.
+- Primary dark.
+- Secondary.
+- Accent.
+- Background.
+- Surface.
+- Text.
+- Muted.
+- Border.
+- Success.
+- Warning.
+
+Le logo reste la référence principale.
+
+Ne pas introduire des couleurs étrangères à l'identité existante.
+
+## 7.4. Direction artistique
+
+Je souhaite un rendu corporate haut de gamme.
+
+Le design doit évoquer :
+
+- L'innovation technologique.
+- La confiance.
+- La sécurité.
+- La précision.
+- La fiabilité.
+- L'institutionnel.
+- La modernité.
+
+Utiliser des compositions modernes, des photographies de qualité, une typographie professionnelle et des animations discrètes.
+
+Ne pas créer une interface ressemblant à un template générique de cybersécurité.
+
+---
+
+# 8. EXTRACTION DES RESSOURCES DU SITE ORIGINAL
+
+CETTE ÉTAPE EST OBLIGATOIRE AVANT LE DÉVELOPPEMENT.
+
+Je veux que tu récupères autant que possible les ressources authentiques appartenant à PROOFTAG-CATIS.
+
+Ne remplace pas toutes les photographies par des images générées ou trouvées au hasard sur Internet.
+
+Le site existant contient déjà des ressources potentiellement réutilisables.
+
+## 8.1. Récupération des logos
+
+Récupérer :
+
+- Le logo récent PROOFTAG-CATIS.
+- L'ancien logo.
+- La version adaptée aux fonds blancs.
+- La version adaptée aux fonds sombres.
+- Le favicon.
+- Les éventuelles variantes SVG ou haute résolution.
+
+Vérifier leur qualité, leur transparence et leurs dimensions.
+
+Conserver les fichiers d'origine.
+
+Ne jamais redessiner arbitrairement le logo.
+
+## 8.2. Photographies et illustrations
+
+Explorer toutes les pages pour récupérer :
+
+- Photographies de l'entreprise.
+- Images des équipes.
+- Photographies des centres de contrôle technique.
+- Images des véhicules.
+- Images de matériel informatique.
+- Tablettes et équipements de contrôle.
+- Scellés à bulles.
+- Vignettes.
+- Procès-verbaux illustratifs.
+- Images de sécurité documentaire.
+- Images de recherche et développement.
+- Illustrations de reporting.
+- Images des solutions numériques.
+- Photographies des événements.
+- Images de la galerie.
+
+Privilégier les images originales déjà disponibles.
+
+## 8.3. Ressources liées à la technologie Code à Bulles
+
+Explorer les pages relatives à la sécurité documentaire et les ressources publiques de PROOFTAG SAS.
+
+Rechercher et récupérer, lorsque les droits d'utilisation le permettent :
+
+- Images du Code à Bulles.
+- Illustrations des scellés.
+- Photographies des étiquettes sécurisées.
+- Images de lecteurs.
+- Illustrations d'authentification.
+- Visuels de traçabilité.
+- Images expliquant la technologie.
+- Illustrations de CertiDOCS.
+
+Ne pas fabriquer de copies fonctionnelles de documents officiels.
+
+## 8.4. Extraction des ressources WordPress
+
+Examine les ressources publiques des médiathèques WordPress.
+
+Essaye notamment :
+
+https://site.prooftagcatis.com/wp-json/wp/v2/media?per_page=100
+
+https://www.prooftagcatis.com/wp-json/wp/v2/media?per_page=100
+
+https://net.prooftagcatis.com/wp-json/wp/v2/media?per_page=100
+
+Parcours les pages successives lorsque l'API le permet.
+
+Examine également :
+
+- Les fichiers uploadés.
+- Les images lazy-loaded.
+- Les attributs srcset.
+- Les arrière-plans CSS.
+- Les médias des sliders.
+- Les images des galeries.
+- Les fichiers SVG.
+- Les fichiers de polices.
+- Les éventuels fichiers PDF publics.
+- Les documents de présentation accessibles.
+
+Ne récupère pas uniquement les dix premières images.
+
+Effectue une véritable exploration des ressources accessibles.
+
+Respecte les règles d'accès, les droits d'auteur et les conditions d'utilisation des ressources.
+
+## 8.5. Attention aux images de démonstration
+
+Certaines pages peuvent contenir des images de remplacement ou des images provenant d'anciens thèmes WordPress.
+
+Vérifie leur pertinence.
+
+Ne réutilise pas les fichiers dummy.png, les images génériques ou les placeholders comme s'il s'agissait de photographies officielles.
+
+## 8.6. Logos des partenaires et institutions
+
+Explore les pages consacrées aux partenaires.
+
+Les éléments mentionnés historiquement comprennent notamment :
+- Ministère des Transports.
+- Centres de contrôle technique.
+- PROOFTAG SAS.
+
+Récupère les logos originaux lorsqu'ils sont accessibles.
+
+Avant leur publication sur le nouveau site, vérifie leur statut et les autorisations nécessaires.
+
+Ne transforme pas une simple mention historique en partenariat actuellement actif.
+
+## 8.7. Organisation des assets
+
+Organiser les fichiers dans cette structure :
+
+public/
+  assets/
+    logo/
+    brand/
+    hero/
+    banners/
+    company/
+    team/
+    road-safety/
+    vehicle-inspection/
+    document-security/
+    bubble-seals/
+    certidocs/
+    ditros-ct/
+    ct-verif/
+    doser/
+    data-reporting/
+    research-development/
+    partners/
+    icons/
+    backgrounds/
+    fonts/
+
+Créer un fichier :
+
+ASSETS_MANIFEST.json
+
+Pour chaque ressource, préciser :
+- Nom.
+- URL d'origine.
+- Chemin local.
+- Catégorie.
+- Dimensions.
+- Format.
+- Page d'origine.
+- Usage prévu.
+- Statut des droits d'utilisation.
+
+Ne prétends jamais avoir récupéré un fichier qui n'a pas réellement été téléchargé.
+
+Si une ressource n'est pas accessible, signale-le et prévois un emplacement pour la remplacer ultérieurement.
+
+---
+
+# 9. ARCHITECTURE DU NOUVEAU SITE
+
+Créer les pages suivantes.
+
+## 9.1. ACCUEIL
+
+C'est la page la plus importante.
+
+Elle doit présenter immédiatement l'identité et le positionnement de PROOFTAG-CATIS.
+
+### Barre supérieure
+
+Afficher :
+
+- Téléphone : +237 699 19 29 19.
+- E-mail : info@prooftagcatis.com.
+- Localisation : Douala, Cameroun.
+- Accès aux réseaux sociaux uniquement si les liens officiels sont confirmés.
+
+### Header principal
+
+Afficher :
+- Logo officiel.
+- Accueil.
+- À propos.
+- Expertise.
+- Solutions.
+- Actualités.
+- Carrière.
+- Contact.
+
+Prévoir des menus déroulants élégants.
+
+Ajouter un sélecteur de langue français/anglais, puisque les versions publiques du site présentent déjà cette possibilité.
+
+### HERO
+
+Créer un Hero très professionnel.
+
+Utiliser prioritairement les véritables ressources visuelles extraites du site original.
+
+Proposition de titre :
+
+« DES SOLUTIONS TECHNOLOGIQUES POUR UN MONDE PLUS SÛR ET PLUS CONNECTÉ »
+
+Texte :
+
+« PROOFTAG-CATIS développe et déploie des solutions numériques innovantes au service des transports, de la sécurité routière et de l'authentification documentaire. »
+
+Boutons :
+- Découvrir nos solutions.
+- Nous contacter.
+
+Le Hero doit immédiatement transmettre une image de confiance et de maîtrise technologique.
+
+### Section présentation
+
+Titre :
+
+« L'INNOVATION TECHNOLOGIQUE AU SERVICE DE LA SÉCURITÉ »
+
+Présenter CATIS et expliquer son rôle dans les systèmes numériques appliqués aux transports et à la sécurité routière.
+
+### Section expertise
+
+Créer cinq grandes cartes :
+
+1. Recherche et développement.
+2. Support technique.
+3. Analyse de données et reporting.
+4. Sécurité documentaire.
+5. Sécurité et prévention routière.
+
+Chaque carte doit avoir une image, une description et un lien vers sa page détaillée.
+
+### Section nos solutions
+
+Présenter les trois solutions :
+
+DITROS-CT
+CT-VERIF
+DOSER
+
+Créer des cartes visuellement différenciées.
+
+Chaque carte possède :
+- Une illustration.
+- Un nom.
+- Une explication.
+- Un bouton « Découvrir ».
+
+### Section processus de sécurisation
+
+Présenter les douze points de sécurisation sous forme d'une infographie professionnelle.
+
+### Section nos technologies
+
+Mettre en avant :
+- Code à Bulles.
+- CertiDOCS.
+- Authentification.
+- Traçabilité.
+- QR code.
+- Solutions numériques.
+
+Ne pas inventer de technologies.
+
+### Section acteurs concernés
+
+Présenter les publics concernés par les solutions :
+
+- Gouvernement.
+- Ministères.
+- Centres de contrôle technique.
+- Agents de sécurité routière.
+- Automobilistes.
+- Propriétaires de véhicules.
+- Sociétés d'assurance.
+- Garages automobiles.
+- Acteurs de la prévention routière.
+
+Ne pas présenter ces catégories comme une liste de clients contractuels.
+
+### Section actualités
+
+Afficher uniquement des publications réelles provenant des informations publiques de l'entreprise.
+
+Prévoir une structure vide élégante lorsque les actualités ne sont pas disponibles.
+
+### Section contact
+
+Créer un appel à l'action :
+
+« Vous souhaitez en savoir davantage sur nos solutions ? »
+
+Bouton :
+« Contactez notre équipe ».
+
+### Footer
+
+Inclure :
+- Logo.
+- Présentation.
+- Navigation.
+- Expertise.
+- Solutions.
+- Contact.
+- Coordonnées.
+- Langues.
+- Mentions légales.
+- Politique de confidentialité.
+
+---
+
+# 10. PAGE À PROPOS
+
+Créer une page complète.
+
+Sections :
+
+- Présentation de l'entreprise.
+- Signification de CATIS.
+- Histoire.
+- Positionnement.
+- Vision.
+- Mission.
+- Organisation.
+- Équipe.
+- Engagements.
+- Présentation de la relation avec PROOFTAG SAS.
+
+Utiliser les informations publiées sur les sites existants, mais vérifier leur actualité.
+
+## Équipe
+
+Le site de présentation comporte notamment les profils suivants :
+
+- Marceline TCHANGA : Administrateur Général.
+- Jocelyn NGAE : Administrateur Général Adjoint.
+- Kelly NJIEMELI : Responsable Administratif et RH.
+- Regine MOMA : Assistant Administratif et RH.
+- Ervé-Giscard FOJO : Responsable Comptabilité.
+- Serge TAMPOLLA : Directeur Technique.
+
+Ces informations sont des références issues de la présentation publique de l'entreprise.
+
+Vérifier leur actualité avant publication.
+
+Réutiliser les portraits originaux lorsqu'ils sont disponibles et autorisés.
+
+Ne pas inventer de nouveaux membres.
+
+Ne pas modifier les fonctions.
+
+---
+
+# 11. PAGE EXPERTISE
+
+Créer une page principale et une page détaillée pour chaque spécialité.
+
+## Recherche et développement
+
+Présenter la démarche d'innovation et de développement technologique.
+
+## Support technique
+
+Présenter l'assistance aux utilisateurs, le maintien en condition opérationnelle lorsque proposé et l'accompagnement.
+
+## Analyse de données et reporting
+
+Présenter les capacités de collecte, d'exploitation et d'analyse des données.
+
+## Sécurité documentaire
+
+Présenter les solutions d'authentification, de protection et de traçabilité.
+
+## Sécurité et prévention routière
+
+Présenter l'engagement de l'entreprise dans la sécurité routière et l'amélioration des processus de contrôle.
+
+Créer une identité visuelle cohérente entre les différentes pages.
+
+---
+
+# 12. PAGE SOLUTIONS
+
+Créer une page dédiée à :
+
+- DITROS-CT.
+- CT-VERIF.
+- DOSER.
+
+Chaque solution doit disposer de sa propre page détaillée.
+
+Créer des boutons permettant d'accéder aux plateformes externes lorsque leurs liens sont confirmés.
+
+Ne jamais simuler le fonctionnement d'une application externe dans le site vitrine.
+
+---
+
+# 13. PAGE ACTUALITÉS
+
+Créer une section actualités administrable.
+
+Prévoir :
+- Articles.
+- Informations institutionnelles.
+- Événements.
+- Communications officielles.
+- Publications sur la sécurité routière.
+- Actualités technologiques.
+
+Chaque article doit contenir :
+- Titre.
+- Date.
+- Image.
+- Résumé.
+- Contenu.
+- Bouton de partage.
+
+Ne pas inventer d'articles présentés comme étant réellement publiés par l'entreprise.
+
+---
+
+# 14. PAGE CARRIÈRE
+
+L'ancien site fait référence aux offres d'emploi et aux stages.
+
+Créer une page carrière comprenant :
+
+- Présentation.
+- Offres disponibles.
+- Stages académiques.
+- Stages professionnels.
+- Candidatures spontanées.
+
+Afficher uniquement des offres réellement publiées et vérifiées.
+
+Prévoir un formulaire de candidature lorsque l'entreprise valide cette fonctionnalité :
+
+- Nom complet.
+- E-mail.
+- Téléphone.
+- Type de candidature.
+- Poste ou domaine souhaité.
+- Lettre de motivation.
+- CV en PDF.
+
+Sécuriser les téléchargements.
+
+Ne pas prétendre qu'une candidature est reçue si son envoi n'a pas réellement abouti.
+
+---
+
+# 15. PAGE CONTACT ET FORMULAIRE EMAIL
+
+Coordonnées identifiées :
+
+Téléphone :
++237 699 19 29 19
+
+Adresse e-mail :
+info@prooftagcatis.com
+
+Ville :
+Douala, Cameroun.
+
+Adresse physique exacte à confirmer.
+
+Créer une page contact avec :
+
+- Informations de contact.
+- Localisation.
+- Horaires si confirmés.
+- Formulaire.
+- Accès WhatsApp si un numéro WhatsApp officiel est confirmé.
+
+## Formulaire
+
+Champs :
+- Nom.
+- Prénom.
+- Organisation.
+- E-mail.
+- Téléphone.
+- Type de demande.
+- Sujet.
+- Solution concernée.
+- Message.
+
+Le formulaire doit transmettre réellement les demandes à l'adresse :
+
+info@prooftagcatis.com
+
+## Intégration EmailJS
+
+Prévoir une intégration avec les variables :
+
+VITE_EMAILJS_SERVICE_ID
+
+VITE_EMAILJS_TEMPLATE_ID
+
+VITE_EMAILJS_PUBLIC_KEY
+
+Le modèle d'e-mail peut utiliser les variables :
+
+sender_name
+sender_email
+sender_phone
+organization
+request_type
+solution
+subject
+message
+submitted_at
+
+Prévoir un e-mail professionnel et bien structuré.
+
+Ne jamais prétendre qu'une demande est envoyée lorsque le service échoue.
+
+Afficher une confirmation après réussite réelle.
+
+En cas d'absence de configuration, expliquer les paramètres à fournir et ne pas empêcher le lancement de la prévisualisation du site.
+
+Ne jamais exposer de mot de passe SMTP ou de clé privée dans le code frontend.
+
+---
+
+# 16. RESSOURCES VISUELLES ET DIRECTION ARTISTIQUE
+
+Le site doit avoir un aspect institutionnel premium.
+
+Utiliser des photographies pertinentes :
+
+- Centres de contrôle technique.
+- Véhicules automobiles.
+- Infrastructures routières.
+- Agents de contrôle.
+- Équipements de mesure.
+- Tablettes.
+- Scellés de sécurité.
+- Authentification documentaire.
+- Code à Bulles.
+- Serveurs et systèmes informatiques.
+- Tableaux de bord analytiques.
+- Recherche et développement.
+
+Privilégier les ressources officielles récupérées.
+
+Pour les éléments visuels manquants, utiliser des images provisoires pertinentes et documenter leur provenance.
+
+Ne pas mélanger le site avec des photographies d'imprimantes à cartes et de matériel de magasin qui sont sans rapport avec les activités centrales de l'entreprise.
+
+---
+
+# 17. EXPÉRIENCE UTILISATEUR ET DESIGN
+
+Je veux une interface moderne, sobre, élégante et professionnelle.
+
+Caractéristiques :
+
+- Header soigné.
+- Navigation fluide.
+- Menus déroulants.
+- Grands visuels.
+- Sections bien structurées.
+- Infographies modernes.
+- Cartes de solutions.
+- Typographie professionnelle.
+- Boutons cohérents.
+- Animations légères.
+- Transitions élégantes.
+- Effets de survol discrets.
+- Pied de page complet.
+
+Éviter les animations excessives et les interfaces trop chargées.
+
+Créer une expérience adaptée aux décideurs institutionnels, administrations, entreprises et partenaires technologiques.
+
+---
+
+# 18. RESPONSIVE DESIGN
+
+Le site doit être totalement responsive.
+
+Prévoir des versions adaptées :
+
+- Ordinateur.
+- Ordinateur portable.
+- Tablette.
+- Smartphone.
+
+Le menu mobile doit être entièrement fonctionnel.
+
+Les infographies doivent être adaptées aux petits écrans.
+
+Les textes, tableaux, formulaires et images doivent rester parfaitement lisibles.
+
+---
+
+# 19. ARCHITECTURE TECHNIQUE
+
+Utiliser de préférence :
+
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- React Router.
+- Lucide React.
+
+Respecter l'environnement existant lorsqu'il est déjà fonctionnel.
+
+Créer une architecture structurée comprenant :
+
+src/
+  components/
+  pages/
+  layouts/
+  sections/
+  data/
+  services/
+  hooks/
+  styles/
+  assets/
+  config/
+
+Organiser les données des solutions dans des fichiers séparés.
+
+Créer une configuration centralisée pour :
+- Les coordonnées.
+- Les couleurs.
+- Les menus.
+- Les solutions.
+- Les expertises.
+- Les langues.
+- Les réseaux sociaux.
+
+Ne pas écrire tout le site dans un unique fichier.
+
+Le code doit être maintenable, propre et évolutif.
+
+---
+
+# 20. SEO ET RÉFÉRENCEMENT
+
+Optimiser le site pour :
+
+- PROOFTAG-CATIS S.A.
+- CATIS Cameroun.
+- Sécurité routière Cameroun.
+- Contrôle technique automobile Cameroun.
+- Sécurisation documentaire.
+- Authenticité des documents.
+- Code à Bulles.
+- CertiDOCS.
+- DITROS-CT.
+- CT-VERIF.
+- DOSER.
+- Analyse de données routières.
+- Solutions numériques de transport.
+
+Prévoir :
+- Titres SEO.
+- Meta descriptions.
+- URLs lisibles.
+- Balises Open Graph.
+- Sitemap XML.
+- Robots.txt.
+- Balises structurées.
+- Optimisation des images.
+- Attributs alt.
+- Liens internes.
+
+Prévoir une architecture bilingue français/anglais cohérente.
+
+Le français doit être la langue par défaut.
+
+Les traductions anglaises doivent être professionnelles et fidèles au contenu français.
+
+---
+
+# 21. SÉCURITÉ ET PROTECTION DES INFORMATIONS
+
+Compte tenu des activités de l'entreprise, cette partie est particulièrement importante.
+
+Ne jamais intégrer dans le site public :
+
+- Des identifiants internes.
+- Des informations confidentielles.
+- Des données réelles de véhicules.
+- Des données personnelles de propriétaires.
+- Des informations d'accès aux systèmes.
+- Des fichiers internes.
+- Des détails permettant de contourner les contrôles.
+- Des mécanismes de génération de véritables documents officiels.
+
+Les vignettes, procès-verbaux et scellés affichés dans les illustrations doivent être des maquettes fictives non utilisables comme documents officiels.
+
+Ne pas reproduire intégralement les éléments de sécurité physique d'un véritable document.
+
+Ne pas exposer de fausses certifications ou garanties.
+
+---
+
+# 22. INFORMATIONS À VÉRIFIER AVANT PUBLICATION
+
+Il existe des informations différentes selon les versions publiques du site.
+
+Tu dois les documenter et ne pas choisir arbitrairement.
+
+Notamment :
+
+- Adresse : Résidence Le Carat ou 4601 Hôtel de l'air, Bonapriso.
+- Adresse e-mail : confirmer l'adresse officielle actuelle.
+- Statut actuel des différentes solutions.
+- Composition actuelle de l'équipe.
+- Liste des partenaires à afficher.
+- Actualités.
+- Certifications éventuelles.
+- Nombre actuel de centres de contrôle installés.
+- Nombre actuel de collaborateurs.
+- Réseaux sociaux officiels.
+- Informations légales et réglementaires.
+
+Attention : certaines anciennes pages contiennent des statistiques et des informations réglementaires datant de 2018 à 2020.
+
+Ne les reprends pas automatiquement comme des données actuelles.
+
+Pour les informations non confirmées, prévois des champs configurables et signale-les dans le rapport de recherche.
+
+---
+
+# 23. LIVRABLES OBLIGATOIRES
+
+À la fin du développement, le projet doit contenir :
+
+1. Le site web complet.
+2. La page d'accueil.
+3. La page À propos.
+4. La page CATIS.
+5. Les pages Expertise.
+6. Les pages Solutions.
+7. La page Actualités.
+8. La page Carrière.
+9. La page Contact.
+10. Le formulaire d'envoi d'e-mails.
+11. L'intégration du logo original.
+12. Les photographies récupérées.
+13. Les ressources graphiques.
+14. L'infographie des douze points de sécurisation.
+15. L'architecture bilingue.
+16. Le responsive design.
+17. Le code source organisé.
+18. Le fichier README.
+19. Le rapport de recherche.
+20. Le manifeste des assets.
+
+Créer les fichiers :
+
+COMPANY_RESEARCH.md
+
+Ce document doit présenter :
+- L'entreprise.
+- Ses activités.
+- Son organisation.
+- Son positionnement.
+- Ses expertises.
+- Ses solutions.
+- Les sources consultées.
+- Les contradictions.
+- Les informations à confirmer.
+
+ASSETS_MANIFEST.json
+
+Ce fichier doit inventorier les ressources originales réellement récupérées.
+
+README.md
+
+Il doit expliquer l'installation, la configuration, le lancement et le déploiement.
+
+---
+
+# 24. ORDRE DE TRAVAIL OBLIGATOIRE
+
+Respecte impérativement cet ordre :
+
+ÉTAPE 1 : Explorer les trois versions publiques des sites.
+
+ÉTAPE 2 : Rechercher et documenter les activités de PROOFTAG-CATIS S.A.
+
+ÉTAPE 3 : Étudier les solutions DITROS-CT, CT-VERIF et DOSER.
+
+ÉTAPE 4 : Extraire le logo original, les photographies, les bannières, les illustrations, les logos et les autres ressources accessibles.
+
+ÉTAPE 5 : Organiser tous les assets dans le projet.
+
+ÉTAPE 6 : Analyser l'identité graphique et extraire les couleurs réelles.
+
+ÉTAPE 7 : Élaborer le design system.
+
+ÉTAPE 8 : Construire l'architecture du site.
+
+ÉTAPE 9 : Développer l'ensemble des pages.
+
+ÉTAPE 10 : Intégrer toutes les fonctionnalités.
+
+ÉTAPE 11 : Configurer les formulaires et l'envoi des e-mails.
+
+ÉTAPE 12 : Tester le site sur ordinateur, tablette et smartphone.
+
+ÉTAPE 13 : Livrer les fichiers de documentation et les sources.
+
+Ne t'arrête pas après avoir effectué la recherche.
+
+Continue automatiquement vers le développement complet.
+
+Si certaines ressources sont inaccessibles, documente précisément la limitation et poursuis le projet avec les ressources disponibles.
+
+---
+
+# 25. INSTRUCTION FINALE
+
+Je souhaite une refonte professionnelle et complète de PROOFTAG-CATIS S.A.
+
+Le nouveau site doit présenter l'entreprise comme un acteur technologique sérieux, spécialisé dans la sécurité documentaire, les transports et la sécurité routière.
+
+Je veux une véritable identité corporate, un parcours utilisateur fluide, une présentation détaillée des solutions et une excellente qualité graphique.
+
+PRIORITÉS ABSOLUES :
+
+1. Respecter l'identité visuelle originale.
+2. Récupérer le maximum de ressources authentiques du site existant.
+3. Présenter fidèlement les activités réelles.
+4. Valoriser DITROS-CT, CT-VERIF et DOSER.
+5. Mettre en avant les technologies d'authentification documentaire.
+6. Créer un site professionnel et institutionnel.
+7. Développer toutes les pages et fonctionnalités.
+8. Ne jamais inventer les informations commerciales ou institutionnelles.
+
+Le résultat doit être suffisamment abouti pour être présenté directement à la direction de PROOFTAG-CATIS S.A.
+
+COMMENCE PAR L'AUDIT DOCUMENTAIRE ET L'EXTRACTION DES RESSOURCES, PUIS DÉVELOPPE LE SITE COMPLET.
